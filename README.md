@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Alexandros - MSc in Data Analytics for Economics & Finance (Adam Smith Business School, University of Glasgow). After being exposed to exciting subjects such as Statistical Machine Learning, Neural Networks, Time Series Forecasting, and Bayesian Data Analysis, I am currently seeking roles in Statistics & Data Science!
+I am Alexandros - MSc in Data Analytics for Economics & Finance (Adam Smith Business School, University of Glasgow). I am currently a Data Scientist and my work spans Statistical Machine Learning, Neural Networks, Time Series Forecasting, and Bayesian Data Analysis.
 
 - 🔭 I’m currently sharpening my Python skills through small projects and exercises.
 - 🌱 My biggest and most recent project: my MSc dissertation - in collaboration with [AccessFintech](https://www.accessfintech.com/) - where I built a machine learning framework to detect employee burnout.  
